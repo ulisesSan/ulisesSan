@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ulisesSan
 - 👀 I’m interested in be a great developer
-- 🌱 I’m currently learning js, PHP
 - 💞️ I’m collaborating in a proyect of my university
 - 📫 How to reach me uliseo_95@hotmail.com and jajajajajaja703@gmail.com
 
