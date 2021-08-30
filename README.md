@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ulisesSan
 - 👀 I’m interested in be a great developer
 - 💞️ I’m collaborating in a project of my university
-- I'm a team member in Google Developer Student Club
+- 🐱‍💻 I'm a team member in Google Developer Student Club
 - 📫 How to reach me uliseo_95@hotmail.com and ucaceresl001@gmail.com
-- I am currently developing a point of sale
+- 💻 I am currently developing a point of sale
 
 ![imagen](https://user-images.githubusercontent.com/37051136/131366575-58a8f20f-f005-4097-bde1-1156e092eeda.png)
 
