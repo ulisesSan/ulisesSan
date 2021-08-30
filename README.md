@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ulisesSan
 - 👀 I’m interested in be a great developer
-- 💞️ I’m collaborating in a proyect of my university
+- 💞️ I’m collaborating in a project of my university
 - I'm a team member in Google Developer Student Club
 - 📫 How to reach me uliseo_95@hotmail.com and ucaceresl001@gmail.com
 - I am currently developing a point of sale
