@@ -152,3 +152,12 @@ ul, ol {
   border-radius: 15px;
   float: left;
 }
+
+.padre {
+  width: 150px;
+  height: 150px;
+  background: yellow;
+  
+  /* IMPORTANTE */
+  display: table;
+}
