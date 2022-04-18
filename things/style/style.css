@@ -2,6 +2,7 @@
   border-radius: 50%;
   width: 150px
 }
+
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
@@ -21,12 +22,30 @@ img:hover {
 
 .divHead{
   background-color: black;
-  width:100%;
+  width:250px;
+  height: 100%;
   align-items: center;
+  float: left;
+}
+
+.divSkills{
+  width:70%;
+  align-items: center;
+  float: left;
 }
 
 .divCenter{
   text-align: center;
+}
+
+.divColor{
+  background-color: black;
+}
+.divFinal{
+  width:100%;
+  height: 100%;
+  float: right;
+  position: bottom;
 }
 
 .pColor{
@@ -45,4 +64,18 @@ img:hover {
 .aUni{
   text-decoration: dotted;
   color:aquamarine;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.embed-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
