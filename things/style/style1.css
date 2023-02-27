@@ -1,0 +1,18 @@
+.imgMe {
+    border-radius: 50%;
+    width: 150px;
+    border-radius: 50%;
+
+}
+
+.bodyColor{
+    background-color: rgb(227, 220, 220);
+}
+
+.divCenter{
+    text-align: center;
+}
+
+.textCenter{
+    align-self: center;
+}
