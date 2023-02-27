@@ -1,18 +1,26 @@
+
+.bodyColor{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(227, 217, 217);
+}
+
 .imgMe {
     border-radius: 50%;
     width: 150px;
     border-radius: 50%;
-
 }
 
-.bodyColor{
-    background-color: rgb(227, 220, 220);
-}
-
-.divCenter{
+.divContext{
     text-align: center;
+    width: 40%;
+    height: 100%;
 }
 
 .textCenter{
     align-self: center;
+}
+
+.link{
+    text-decoration: dotted;
+    color:rgb(61, 111, 164);
 }
